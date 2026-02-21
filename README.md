@@ -4,7 +4,7 @@
 
 A smart, automated timetable generation system built with **Streamlit**, designed for engineering colleges. It handles department-specific subjects, teacher assignments, lab scheduling, and generates optimized weekly timetables.
 
-> Created by **CODE BLOODED**
+> Created by **Yogesh**
 
 ---
 
